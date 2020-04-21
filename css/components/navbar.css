@@ -1,0 +1,9 @@
+.navbar-wecca {
+  display: flex;
+  justify-content: space-around;
+  background: white;
+}
+
+.navbar-wecca .navbar-brand img {
+  width: 150px;
+}

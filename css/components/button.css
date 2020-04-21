@@ -1,0 +1,16 @@
+
+
+.btn-nav {
+  color: white;
+  padding: 8px 24px;
+  border-radius: 5px;
+  background: #333333;
+  transition: background 0.3s ease;
+  display: inline;
+}
+
+  .btn-nav:hover {
+  background: #706C62;
+  color: white;
+}
+
